@@ -1,2 +1,2 @@
-# Project-1GitHub-Fundamentals
- Cloud Security - VMs including ELK
+# Project-1 GitHub-Fundamentals - Cloud Security 
+ Cloud Security - VMs setup including ELK
