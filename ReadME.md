@@ -8,7 +8,7 @@ below.
 
 These files have been tested and used to generate a live ELK deployment
 on Azure. They can be used to either recreate the entire deployment
-pictured above. Alternatively, select portions of the \_\_\_\_\_ file
+pictured above. Alternatively, select portions of the yml and config file
 may be used to install only certain pieces of it, such as Filebeat.
 
 See in the [**Ansible
