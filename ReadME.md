@@ -3,9 +3,8 @@
 The files in this repository were used to configure the network depicted
 below.
 
-![Graphical user interface, diagram Description automatically
-generated](vertopal_91792471951549908a195b2263bb33f6/media/image1.png){width="6.414583333333334in"
-height="3.1215277777777777in"}
+![image](https://user-images.githubusercontent.com/98858024/177683444-ab2f5a9e-dbe1-4ab0-8008-228045f506c3.png)
+
 
 These files have been tested and used to generate a live ELK deployment
 on Azure. They can be used to either recreate the entire deployment
